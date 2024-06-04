@@ -6,6 +6,8 @@ Lifelong Learner, currently working as Fullstack Web Developer.
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src ="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
+    <img src = "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
@@ -13,7 +15,7 @@ Lifelong Learner, currently working as Fullstack Web Developer.
     - :keyboard: I’m currently learning Laravel and Codeigniter. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:azizmfadli.04@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: Her. </br>
+    - :cloud: Pronouns: He/Him. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
