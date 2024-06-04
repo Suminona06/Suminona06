@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Azis</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Azis Muhammad</strong></summary>
 Lifelong Learner, currently working as Fullstack Web Developer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -9,7 +9,9 @@ Lifelong Learner, currently working as Fullstack Web Developer.
     <br>
     <img src ="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
     <br>
-    <img src = "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+    <img src = "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <br>
+    <img src = "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
