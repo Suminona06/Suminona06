@@ -1,8 +1,32 @@
-- 👋 Hi, I’m Aziss
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ..yeah.
-- 💞️ free time in weekend
-- 📫 How to reach me ...
+# <summary><strong>Hi there :wave: , I'm Azis</strong></summary>
+Lifelong Learner, currently working as Fullstack Web Developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
+
+### <summary><strong>Yosh!</strong></summary>
+<p>
+    - :keyboard: I’m currently learning Laravel and Codeigniter. </br>
+    - :speech_balloon: Ask me about anything.</br>
+    - :mailbox: How to reach me: <a href="mailto:azizmfadli.04@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: Her. </br>
+    - :game_die: Drawing and writing are part of me. </br>
+<p>
+ 
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://twitter.com/yours">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/yours/">
+  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://yours.com/">
+  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+</a>
 - 😎 instagram @ziss04_
 <!---
 Suminona06/Suminona06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
