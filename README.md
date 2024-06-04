@@ -24,16 +24,15 @@ Lifelong Learner, currently working as Fullstack Web Developer.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="#">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
 </a>
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com/https.ziss_/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
-- 😎 instagram @ziss04_
 <!---
 Suminona06/Suminona06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
